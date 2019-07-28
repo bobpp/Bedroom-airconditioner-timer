@@ -1,0 +1,16 @@
+{
+  "name": "bedroom-airconditioner-timer",
+  "version": "1.0.0",
+  "scripts": {
+    "clasp": "clasp",
+    "tslint": "tslint --fix src/**/*.ts",
+    "push": "clasp push"
+  },
+  "author": "bobpp",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.2.1",
+    "@types/google-apps-script": "^0.0.54",
+    "tslint": "^5.18.0"
+  }
+}
